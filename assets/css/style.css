@@ -55,7 +55,7 @@ h3 {
 #masthead {
   position: fixed;
   z-index: 99;
-  width: 97.9%;
+  width: 98%;
   margin: 0 0 30px;
   overflow: auto;
   color: #fff;
@@ -245,4 +245,18 @@ input[type=submit] {
   #masthead {
     position: static;
   }
+
+  #main-container {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 0;
+  }
+  .work{
+    margin: auto;
+    width: 100%;
+  }
+
+  
+
 }
